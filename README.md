@@ -16,7 +16,7 @@ This Project is the part of the Udacity's Data Science Nano Degree Program.
 To work with this repository, you just need to clone it to your local machine.
 
 ```
-git clone https://github.com/aarshcode/Hacker-Rank-2018-Analysis.git
+$ git clone https://github.com/aarshcode/Hacker-Rank-2018-Analysis.git
 ```
 
 This project works with Python 3.* , to install depencencies just execute
