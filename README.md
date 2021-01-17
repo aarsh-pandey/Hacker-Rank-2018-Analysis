@@ -13,6 +13,12 @@ This Project is the part of the Udacity's Data Science Nano Degree Program.
 
 ## Installation <a name="installation"></a>
 
+To work with this repository, you just need to clone it to your local machine.
+
+```
+git clone https://github.com/aarshcode/Hacker-Rank-2018-Analysis.git
+```
+
 This project works with Python 3.* , to install depencencies just execute
 ```
 $ pip install -r requirements.txt
@@ -37,7 +43,7 @@ I found the data Interesting and was curious to know answers to the following qu
 
 ## File Descriptions <a name="files"></a>
 
-The notebook available here showcases work related to the above questions.
+The notebook available [here](https://github.com/aarshcode/Hacker-Rank-2018-Analysis/blob/main/Hacker%20Rank%202018%20survey%20analysis.ipynb) showcases work related to the above questions.
 
 ## Results<a name="results"></a>
 
