@@ -1,6 +1,6 @@
 
 # Hacker-Rank-2018-Analysis
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarshcode/Hacker-Rank-2018-Analysis.git/HEAD)
 This Project is the part of the Udacity's Data Science Nano Degree Program.
 
 ### Table of Contents
